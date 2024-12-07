@@ -28,6 +28,6 @@ Gotta say, not very impressive yet. I've done some other minor homelab-style stu
 
 ## Disclaimer  
 If anything ever ends up public in my repos, chances are:  
-- It's an **open-source project** I've somehow figured out how to modify and feel proud of.  
+- It's an open-source project I've somehow figured out how to modify enough to feel cool about it.  
 - I've probably set a backup/version control repo public
 - Accidently posted my private SSH keys again 

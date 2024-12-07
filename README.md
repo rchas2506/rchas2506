@@ -1,16 +1,26 @@
- Hi, Names Ryan, a chap in his late 20's
- After 10+ years of non-stop gaming I dropped the addiction and started a new one. ✨Personal projects✨... What ever that means.
- I've got around 4 years of IT support experience, 0 years expierence in databases, 0 years in coding, 0 years in webdev, or any other techy thing you can think of. Wish me luck.
- I never even studied anything tech related... Anyway.
- So far, in order, I've build a HTML page, started working on a Starlight (Fork of astro) site, and a wordpress site (Ick). Gotta say, not very impressive yet. 
- I've done some other minor home lab style stuff, but nothing of note.
+Hi, Name's Ryan 👋
+A chap in his late 20s.
 
+After 10+ years of non-stop gaming, I dropped the addiction and started a new one: ✨Personal projects✨... whatever that means.
 
- If for any reason you want to reach out, go ahead: ryan.github@proton.me
- If anything ever ends up public on my repo, chances are it's just an open source project I've somehow figured out how to modify and feel proud of it.
- If it's not that, oops. Probably set a backup/version control repo public or posted my SSH keys again.
+About Me
+I've got around 4 years of IT support experience.
+0 years of experience in databases, coding, web development, or any other techy thing you can think of.
+I never even studied anything tech-related... Anyway, wish me luck.
+What I've Done So Far
+Built a basic HTML page.
+Started working on a Starlight (fork of Astro) site.
+Created a WordPress site (ick).
+Gotta say, not very impressive yet. I've done some other minor homelab-style stuff, but nothing of note.
 
-Does this profile readme page support mdx? cause damn my profile be ugly 
+If You Want to Reach Out
+📧 Email me: ryan.github@proton.me
+
+A Disclaimer
+If anything ever ends up public in my repos, chances are:
+
+It's an open-source project I've somehow figured out how to modify and feel proud of.
+Or... oops, I probably set a backup/version control repo public or posted my SSH keys again.
 <!---
 rchas2506/rchas2506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

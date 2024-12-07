@@ -13,9 +13,9 @@ After 10+ years of non-stop gaming, I dropped the addiction and started a new on
 ---
 
 ## What I've Done So Far In Time Order  
-1. Built a basic **HTML page**.  
+1. Built a basic HTML page.  
 2. Started working on a **Starlight** (fork of Astro) site.  
-3. Created a **WordPress site** (ick).  
+3. Created a WordPress site (ick).  
 
 Gotta say, not very impressive yet. I've done some other minor homelab-style stuff, but nothing of note.  
 
@@ -29,4 +29,5 @@ Gotta say, not very impressive yet. I've done some other minor homelab-style stu
 ## Disclaimer  
 If anything ever ends up public in my repos, chances are:  
 - It's an **open-source project** I've somehow figured out how to modify and feel proud of.  
-- Or... oops, I probably set a **backup/version control repo** public or posted my **SSH keys** again.  
+- I've probably set a backup/version control repo public
+- Accidently posted my private SSH keys again 

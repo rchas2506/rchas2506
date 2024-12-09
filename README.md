@@ -14,8 +14,9 @@ After 10+ years of non-stop gaming, I dropped the addiction and started a new on
 
 ## What I've Done So Far In Time Order  
 1. Built a basic HTML page.  
-2. Started working on a **Starlight** (fork of Astro) site.  
-3. Created a WordPress site (ick).  
+2. Started working on a **Documentation** site, powered by Astro.  
+3. Created a WordPress site (ick).
+4. Created an AD for GitHub Education. It's live right now if you want to see it @ rhvn.org 
 
 Gotta say, not very impressive yet. I've done some other minor homelab-style stuff, but nothing of note.  
 

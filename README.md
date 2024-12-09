@@ -1,7 +1,7 @@
 # Hi, Name's Ryan 👋  
 A chap in his late 20s.  
 
-After 10+ years of non-stop gaming, I dropped the addiction and started a new one: ✨**Personal projects**✨... whatever that means.  
+After wasting many years playing video games, I dropped the addiction and started a new one: ✨**Personal projects**✨... whatever that means.  
 
 ---
 

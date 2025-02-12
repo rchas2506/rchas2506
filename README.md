@@ -6,17 +6,6 @@ That's it.
 ## About Me  
 IDK what I'm doing. 
 
----
-
-## What I've Done So Far In Time Order  
-I was born.
-I got aged.
-I worked.
-That's it so far.
----
-
-## If You Want to Reach Out  
-
 
 ---
 
